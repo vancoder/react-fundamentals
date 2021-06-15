@@ -58,7 +58,7 @@ variable and how to fix it here for [windows][win-path] or
 ## Setup
 
 * Create a [fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) of
-the Alley for of the React Fundamentals repo into your personal github account.
+the Alley for of the React Fundamentals repo into your personal GitHub account.
 * After you've made sure to have the correct things (and versions) installed, you
 should be able to just run a few commands to get set up:
 
